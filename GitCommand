@@ -1,0 +1,19 @@
+git add name
+git commit -m "msg"
+git remote add origin url
+git push -u origin master
+git clone URL
+git pull URL
+git remote -v
+git log
+git show comitID
+git fetch    =gitpull+Merge
+git branch
+git branch a
+git checkout a
+git checkout -d b
+git ls-file
+.gitignore
+git stash save
+git stash list
+git stash pull
